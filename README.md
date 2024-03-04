@@ -1,6 +1,6 @@
 # Data Engineering Assignment
 
-This repository contains a Python script, SQL file, and database for a data engineering assignment. The assignment involves creating a SQLite3 database, populating it with data, and performing ETL (Extract, Transform, Load) operations. The final result is a CSV file.
+This repository contains Python scripts, a SQL database file and a CSV file for a data engineering assignment. The assignment involves creating a SQLite3 database, populating it with data, and performing ETL (Extract, Transform, Load) operations. The final result is a CSV file.
 
 ## Folder Structure
 
