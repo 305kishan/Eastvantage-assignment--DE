@@ -23,27 +23,24 @@ This repository contains a Python script, SQL file, and database for a data engi
 ## Usage
 
 1. Clone the repository:
-   
 ```bash
 git clone https://github.com/305kishan/Eastvantage-assignment--DE.git
-
+```
 
 2. Navigate to the repository folder:
-
 ```bash
 cd Eastvantage-assignment--DE
-
+```
 
 3. Run the create_db.py script:
-
 ```bash
 python create_db.py
-
+```
 
 4. Run the etl.py script:
 ```bash
 python etl.py
-
+```
 
 5. The output CSV file `output.csv` will be generated.
 
