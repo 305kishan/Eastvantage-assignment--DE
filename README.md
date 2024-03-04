@@ -42,5 +42,7 @@ python create_db.py
 python etl.py
 ```
 
-5. The output CSV file `output.csv` will be generated.
+5. The output CSV file `output.csv` will be generated. (Sample `output.csv` snapshot)
+![image](https://github.com/305kishan/Eastvantage-assignment--DE/assets/33387051/6b834835-6cd1-4ab8-bd69-9b46998dcc08)
+
 
